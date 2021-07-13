@@ -2,7 +2,6 @@
 
 I’m an operation and maintenance engineer, Currently working at ShenZhen. And my focus is on DevOps, cloud services, microservices architecture, security operations, SRE, and the familiar use of Shell, Dcoker, Kubernetes, Python, Golang, etc.
 <br/>
-<br/>
 
 <img align="right" alt="SVG" src="./img/operating-system-amico.svg" width="230px"/>
   
