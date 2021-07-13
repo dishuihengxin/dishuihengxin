@@ -34,8 +34,8 @@ I’m an operation and maintenance engineer, Currently working at ShenZhen. And 
 
 <a href='https://github-readme-stats.vercel.app/api?username=dishuihengxin&show_icons=true&theme=radical'>
   
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=dishuihengxin&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishuihengxin&layout=compact&text_color=daf7dc&bg_color=151515)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=dishuihengxin&show_icons=true&theme=algolia)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishuihengxin&layout=compact)
 
 </a>
 
