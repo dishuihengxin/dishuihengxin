@@ -7,12 +7,11 @@ I’m an operation and maintenance engineer, Currently working at ShenZhen. And 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **operator**
-- 🌱 &nbsp; I’m currently learning Golang; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dishuihengxin?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📝 &nbsp; Checkout my [resume](https://kalid.io)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://kalid.io) to see the book I have read
+- 🔭 I am currently engaged in operation and maintenance and project management;
+- 🌱I am currently learning Golang, DevOps;
+- 💬 Ask me anything related to technology, I am happy to help;
+- 📚 When I have time, I like sports and playing basketball;
+- 📝 Visit my personal blog site ([dishuihengxin](https://www.dishuihengxin.com)) to learn more about me.
 
 <br>
 
